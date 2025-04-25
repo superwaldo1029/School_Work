@@ -1,3 +1,0 @@
-/Users/joshthomas/03 School/CSIS1112/Clion/Week11_Snippet5/cmake-build-debug/CMakeFiles/Week11_Snippet5.dir
-/Users/joshthomas/03 School/CSIS1112/Clion/Week11_Snippet5/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/joshthomas/03 School/CSIS1112/Clion/Week11_Snippet5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
